@@ -2,7 +2,6 @@
     "name": "lixweb/hub-sms-notif",
     "description": "Namespaced Hubtels SMS SDK prepared for packagist",
     "keywords": ["sms", "hubtel", "api","sdk"],
-    "homepage": "https://github.com/hinimajesty/hub-sms-notif",
     "type": "library",
     "license": "MIT",
     "version":"1.1",
